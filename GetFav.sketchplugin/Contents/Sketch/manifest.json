@@ -1,0 +1,25 @@
+{
+  "author" : "Tamir Pomerantz @ SimilarWeb",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "🌀Get Favicon",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.SWGetFavicon"
+    }
+  ],
+  "menu" : {
+    "isRoot" : true,
+    "title" : "🌀Get Favicon",
+    "items" : [
+      "com.bohemiancoding.sketch.SWGetFavicon"
+    ]
+  },
+  "identifier" : "com.example.sketch.a8c2ec97-8b3a-422d-9743-10318b0c8fc0",
+  "version" : "0.1",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "GetFav"
+}
